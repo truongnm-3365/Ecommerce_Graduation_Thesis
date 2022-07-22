@@ -1,12 +1,4 @@
-1.Run git clone https://github.com/truongnm-0205/Ecommerce_Graduation_Thesi
-2.Run cd Ecommerce_Graduation_Thesi
-2.Run composer install
-3.Run cp .env.example .env
-4.Run php artisan key:generate
-5.Run php artisan migrate
-6.Run php artisan serve
-7.Go to link localhost:8000
-# Laravel Sample
+# Laravel Ecommerce Japanese Book
 
 > Laravel sample website with content retrieving from [prismic.io](https://prismic.io)
 
@@ -14,9 +6,10 @@ This project runs with Laravel version 8.x.
 
 ## Getting started
 git clone https://github.com/truongnm-0205/Ecommerce_Graduation_Thesi
-cd Ecommerce_Graduation_Thesi
+
 ``` bash
 # install dependencies
+cd Ecommerce_Graduation_Thesi
 composer install
 npm install
 
