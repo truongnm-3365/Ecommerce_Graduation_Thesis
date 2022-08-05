@@ -21,8 +21,6 @@ php artisan key:generate
 Run php artisan migrate
 
 Then launch the server:
-
-```
 php artisan serve
 ```
 
