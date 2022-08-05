@@ -5,6 +5,8 @@ This project runs with Laravel version 8.x.
 ## Getting started
 ``` bash
 Install xampp newest version: https://www.apachefriends.org/download.html
+Install composer: https://getcomposer.org/download/
+Install npm: https://nodejs.org/en/download/
 git clone https://github.com/truongnm-0205/Ecommerce_Graduation_Thesi
 ```
 ``` bash
