@@ -1,7 +1,5 @@
 # Laravel Ecommerce Japanese Book
 
-> Laravel sample website with content retrieving from [prismic.io](https://prismic.io)
-
 This project runs with Laravel version 8.x.
 
 ## Getting started
